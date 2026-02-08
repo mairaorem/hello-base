@@ -7,3 +7,4 @@ Small README update
 Minor README update
 # Open Source Journey 🚀
 This repository tracks my public learning journey and contributions to open source.
+Day 2: Learned how commits work and how GitHub tracks public contributions
