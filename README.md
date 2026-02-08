@@ -5,3 +5,5 @@ Day 1 – learning about Base
 Added notes about open source
 Small README update
 Minor README update
+# Open Source Journey 🚀
+This repository tracks my public learning journey and contributions to open source.
