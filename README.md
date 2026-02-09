@@ -17,4 +17,4 @@ Notes & Learnings: Consistency > complexity
 
 Day 3: Added my daily log and kept consistency going
 Notes & Learnings: Small daily updates add up over time
-Update resources
+Update resources: Base ecosystem, GitHub basics, Open source communities
