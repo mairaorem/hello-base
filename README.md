@@ -10,3 +10,4 @@ This repository tracks my public learning journey and contributions to open sour
 Day 2: Learned how commits work and how GitHub tracks public contributions
 learning how GitHub commits work
 Open source is more than code
+Documentation and small improvements matter
