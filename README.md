@@ -19,7 +19,8 @@ Notes & Learnings: Small daily updates add up over time
 Update resources: Base ecosystem, GitHub basics, Open source communities
 
 Day 4: Learned why public commits matter and how they are tracked
-Public commits help build a visible track record
+Notes & Learnings: Public commits help build a visible track record
 Update resources: GitHub public contribution graph
 
 Day 5: Stayed consistent and improved my repository structure
+Notes & Learnings: Consistency builds credibility over time
