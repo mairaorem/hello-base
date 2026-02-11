@@ -1,13 +1,12 @@
 My first public commit ✨
+Open Source Journey 🚀
+This repository tracks my public learning journey and small contributions to open source.
 
 Learning how to contribute to open source and exploring the Base ecosystem.
 Day 1 – learning about Base
 Added notes about open source
 Small README update
 Minor README update
-
-# Open Source Journey 🚀
-This repository tracks my public learning journey and small contributions to open source.
 
 Day 2: Learned how commits work and how GitHub tracks public contributions
 learning how GitHub commits work
@@ -22,3 +21,5 @@ Update resources: Base ecosystem, GitHub basics, Open source communities
 Day 4: Learned why public commits matter and how they are tracked
 Public commits help build a visible track record
 Update resources: GitHub public contribution graph
+
+Day 5: Stayed consistent and improved my repository structure
