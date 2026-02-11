@@ -3,7 +3,7 @@ Open Source Journey 🚀
 This repository documents my public learning journey and small contributions to open source.
 
 Learning how to contribute to open source and exploring the Base ecosystem.
-Day 1 – learning about Base
+Day 1: Learning about Base
 Added notes about open source
 Small README update
 Minor README update
