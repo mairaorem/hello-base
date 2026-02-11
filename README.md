@@ -1,6 +1,6 @@
 My first public commit ✨
 Open Source Journey 🚀
-This repository tracks my public learning journey and small contributions to open source.
+This repository documents my public learning journey and small contributions to open source.
 
 Learning how to contribute to open source and exploring the Base ecosystem.
 Day 1 – learning about Base
