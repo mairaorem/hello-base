@@ -21,3 +21,4 @@ Update resources: Base ecosystem, GitHub basics, Open source communities
 
 Day 4: Learned why public commits matter and how they are tracked
 Public commits help build a visible track record
+Update resources: GitHub public contribution graph
