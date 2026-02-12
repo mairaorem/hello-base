@@ -24,3 +24,5 @@ Update resources: GitHub public contribution graph
 
 Day 5: Stayed consistent and improved my repository structure
 Notes & Learnings: Consistency builds credibility over time
+
+Day 6: Focused on keeping updates simple and meaningful
