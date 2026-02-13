@@ -31,6 +31,10 @@ Update resources: Open source documentation best practices
 Day 7: Completed my first consistent week of public contributions
 Notes & Learnings: Open source participation starts with showing up
 
+# Week 1 Summary
+
+Completed 7 days of consistent public contributions.
+
 ## Goals
 
 Reach 50 public commits
