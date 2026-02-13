@@ -34,5 +34,5 @@ Notes & Learnings: Open source participation starts with showing up
 ## Goals
 
 Reach 50 public commits
-Maintain consistency
+Maintain long-term consistency
 Learn something new each week
