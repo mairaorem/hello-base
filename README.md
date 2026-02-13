@@ -36,6 +36,10 @@ Notes & Learnings: Open source participation starts with showing up
 
 Completed 7 days of consistent public contributions.
 
+# Learning Notes
+
+Documenting small insights about open source.
+
 ## Goals
 
 Reach 50 public commits
