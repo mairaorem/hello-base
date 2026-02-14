@@ -46,3 +46,7 @@ Documenting small insights about open source.
 Reach 50 public commits
 Maintain long-term consistency
 Learn something new each week
+
+# 50 Commit Goal
+
+Working towards 50 public commits.
