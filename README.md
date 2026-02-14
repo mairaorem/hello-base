@@ -34,6 +34,7 @@ Notes & Learnings: Open source participation starts with showing up
 Update resources: Tracking useful links and references.
 
 Day 8: Expanded repository structure with new documentation files
+Notes & Learnings: Structure improves clarity
 
 
 # Week 1 Summary
