@@ -31,6 +31,7 @@ Update resources: Open source documentation best practices
 
 Day 7: Completed my first consistent week of public contributions
 Notes & Learnings: Open source participation starts with showing up
+Update resources: Tracking useful links and references.
 
 # Week 1 Summary
 
