@@ -51,6 +51,11 @@ Completed 7 days of consistent public contributions.
 Documenting small insights about open source.
 Open source participation starts with visibility.
 
+# Documentation Thoughts
+
+Clear documentation makes small contributions meaningful.
+
+
 ## Goals
 
 Reach 50 public commits
