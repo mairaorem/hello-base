@@ -49,6 +49,7 @@ Completed 7 days of consistent public contributions.
 # Learning Notes
 
 Documenting small insights about open source.
+Open source participation starts with visibility.
 
 ## Goals
 
