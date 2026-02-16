@@ -34,7 +34,7 @@ Notes & Learnings: Open source participation starts with showing up
 Update resources: Tracking useful links and references.
 
 Day 8: Expanded repository structure with new documentation files
-Notes & Learnings: Structure improves clarity
+Notes & Learnings: Clear structure improves long-term clarity
 Consistency is becoming a habit.
 
 Day 9: Focused on documentation and clarity
