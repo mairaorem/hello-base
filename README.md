@@ -42,6 +42,7 @@ Notes & Learnings: Progress becomes visible when tracked publicly
 Update resources: GitHub contribution tracking
 
 Day 10: Final stretch toward 50 public commits
+Notes & Learnings:  Long-term consistency builds digital proof of work
 
 
 # Week 1 Summary
