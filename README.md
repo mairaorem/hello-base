@@ -1,7 +1,11 @@
 My first public commit ✨
 
+# Base Learning Lab 🚀
+
+This repository documents my technical exploration of Ethereum, Layer 2 networks, and the Base ecosystem.
+The goal is to understand core blockchain concepts and build structured knowledge publicly.
+
 # Open Source Journey 🚀
-This repository documents my public learning journey and small contributions to open source.
 
 Day 1: Learning about Base
 Learning how to contribute to open source and exploring the Base ecosystem.
