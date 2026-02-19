@@ -53,6 +53,8 @@ Completed 7 days of consistent public contributions.
 
 Documenting small insights about open source.
 Open source participation starts with visibility.
+This milestone reinforces the importance of steady effort.
+
 
 # Documentation Thoughts
 
