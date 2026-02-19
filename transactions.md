@@ -11,3 +11,5 @@ A blockchain transaction is a signed data package that transfers value or trigge
 - Signature
   
 Gas is the fee paid to validators to process a transaction.
+Example: Sending ETH from one wallet to another requires gas even if no smart contract is involved.
+
