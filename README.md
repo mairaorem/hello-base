@@ -82,3 +82,7 @@ Consistency made this possible.
 
 Milestone reached: 50 public commits.
 
+## Current Focus
+Studying transaction mechanics on Ethereum and Base.
+
+
