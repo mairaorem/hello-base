@@ -59,7 +59,7 @@ This milestone reinforces the importance of steady effort.
 # Documentation Thoughts
 
 Clear documentation makes small contributions meaningful.
-
+Public work creates accountability.
 
 ## Goals
 
