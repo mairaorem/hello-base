@@ -41,3 +41,9 @@ contract SimpleStorage {
 - `uint256 public storedValue` creates a public variable stored on-chain.
 - `set()` updates the stored value.
 - `get()` reads the stored value without modifying the blockchain.
+
+## Deployment
+
+When deployed, a smart contract is assigned a unique blockchain address.
+
+Once deployed, its logic cannot be easily changed.
