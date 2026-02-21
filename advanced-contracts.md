@@ -26,3 +26,9 @@ contract Counter {
     }
 }
 ```
+### State Variable
+
+`uint256 public count;`
+
+This variable is stored on-chain.  
+Its value persists between transactions.
