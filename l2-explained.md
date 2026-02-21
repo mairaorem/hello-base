@@ -11,3 +11,7 @@ Layer 1 networks like Ethereum prioritize decentralization and security, but thi
 Rollups bundle multiple transactions together and submit them to Layer 1 as a single batch.
 
 This reduces congestion and lowers costs per user.
+
+## How Layer 2 Reduces Costs
+
+By processing transactions off-chain and only posting compressed data to Layer 1, Layer 2 networks significantly reduce gas fees.
