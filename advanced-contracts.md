@@ -40,3 +40,9 @@ Its value persists between transactions.
 Events allow the contract to emit logs that external applications can listen to.
 
 They do not store data permanently on-chain but help with tracking activity.
+
+### require()
+
+The `require` statement prevents invalid state changes.
+
+In this case, it ensures the counter cannot go below zero.
