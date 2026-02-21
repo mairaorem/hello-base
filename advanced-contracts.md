@@ -46,3 +46,9 @@ They do not store data permanently on-chain but help with tracking activity.
 The `require` statement prevents invalid state changes.
 
 In this case, it ensures the counter cannot go below zero.
+
+# On-Chain State
+
+On-chain state refers to data that is permanently stored on the blockchain.
+
+When a smart contract updates a state variable, the blockchain records that change.
