@@ -64,3 +64,9 @@ For example:
 - Counter values
 
 State changes require gas because they modify blockchain storage.
+
+## Example: Counter Contract
+
+In the Counter contract, the variable `count` represents the contract's state.
+
+Each time `increment()` or `decrement()` is called, the state changes and is permanently recorded.
