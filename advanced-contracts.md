@@ -32,3 +32,11 @@ contract Counter {
 
 This variable is stored on-chain.  
 Its value persists between transactions.
+
+### Event
+
+`event CountUpdated(uint256 newCount);`
+
+Events allow the contract to emit logs that external applications can listen to.
+
+They do not store data permanently on-chain but help with tracking activity.
