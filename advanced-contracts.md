@@ -52,3 +52,15 @@ In this case, it ensures the counter cannot go below zero.
 On-chain state refers to data that is permanently stored on the blockchain.
 
 When a smart contract updates a state variable, the blockchain records that change.
+
+## Why State Matters
+
+State defines the current condition of a contract.
+
+For example:
+- Token balances
+- Voting results
+- Ownership records
+- Counter values
+
+State changes require gas because they modify blockchain storage.
