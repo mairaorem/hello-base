@@ -70,3 +70,9 @@ State changes require gas because they modify blockchain storage.
 In the Counter contract, the variable `count` represents the contract's state.
 
 Each time `increment()` or `decrement()` is called, the state changes and is permanently recorded.
+
+## Gas Considerations
+
+Each call to increment() or decrement() modifies storage and therefore consumes gas.
+
+Efficient smart contract design aims to minimize unnecessary storage operations.
