@@ -15,3 +15,11 @@ This reduces congestion and lowers costs per user.
 ## How Layer 2 Reduces Costs
 
 By processing transactions off-chain and only posting compressed data to Layer 1, Layer 2 networks significantly reduce gas fees.
+
+## Base Network
+
+Base is a Layer 2 built on Ethereum.
+
+It leverages Ethereum’s security while offering faster and cheaper transactions.
+
+Base is designed to make onchain applications more accessible to mainstream users.
