@@ -83,6 +83,6 @@ Consistency made this possible.
 Milestone reached: 50 public commits.
 
 ## Current Focus
-Studying transaction mechanics on Ethereum and Base.
+Studying Layer 2 architecture, rollups, and the Base network.
 
 
