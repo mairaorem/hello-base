@@ -9,3 +9,9 @@ On Ethereum, smart contracts are executed by the Ethereum Virtual Machine (EVM).
 The EVM is the environment where smart contracts are executed.
 
 Every node in the network runs the EVM to ensure the same results.
+
+## Solidity
+
+Solidity is the most popular programming language used to write Ethereum smart contracts.
+
+It is similar to JavaScript in structure but designed for blockchain logic.
