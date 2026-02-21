@@ -23,3 +23,15 @@ Base is a Layer 2 built on Ethereum.
 It leverages Ethereum’s security while offering faster and cheaper transactions.
 
 Base is designed to make onchain applications more accessible to mainstream users.
+
+## Layer 1 vs Layer 2
+
+Layer 1:
+- Handles final settlement
+- High security
+- Higher fees
+
+Layer 2:
+- Executes transactions at scale
+- Lower fees
+- Faster confirmations
