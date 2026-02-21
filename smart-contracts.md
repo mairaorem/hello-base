@@ -34,3 +34,10 @@ contract SimpleStorage {
     }
 }
 ```
+### Explanation
+
+- `pragma solidity` defines the compiler version.
+- `contract SimpleStorage` defines the smart contract.
+- `uint256 public storedValue` creates a public variable stored on-chain.
+- `set()` updates the stored value.
+- `get()` reads the stored value without modifying the blockchain.
