@@ -14,3 +14,9 @@ For example:
 - Writing new data to the blockchain
 
 Reading data costs less than writing data.
+
+## Gas in the Counter Contract
+
+Calling `increment()` costs gas because it modifies the state variable `count`.
+
+The blockchain must update storage permanently.
