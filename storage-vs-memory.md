@@ -12,3 +12,11 @@ The two most important are:
 Storage variables are permanently stored on-chain.
 
 They are expensive to modify because they change blockchain state.
+
+## Memory
+
+Memory variables exist temporarily during function execution.
+
+They are not stored permanently on-chain.
+
+Memory is cheaper than storage.
