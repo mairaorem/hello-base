@@ -20,3 +20,15 @@ Memory variables exist temporarily during function execution.
 They are not stored permanently on-chain.
 
 Memory is cheaper than storage.
+
+## Example
+
+```solidity
+function example(uint256 _value) public pure returns (uint256) {
+    uint256 temp = _value * 2; // stored in memory
+    return temp;
+}
+```
+
+This function does not modify storage.
+It only uses memory and returns a value.
