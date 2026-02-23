@@ -15,3 +15,31 @@ Bytecode is the low-level machine code understood by the Ethereum Virtual Machin
 Bytecode is a sequence of instructions executed by the EVM.
 
 When deploying a contract, the bytecode is included in a transaction sent to the network.
+
+## ABI (Application Binary Interface)
+
+The ABI defines how external applications interact with a smart contract.
+
+It describes:
+- Available functions
+- Input parameters
+- Return types
+- Events
+
+Frontends use the ABI to call contract functions.
+
+## Deployment Process
+
+1. Write the smart contract in Solidity
+2. Compile it to generate bytecode and ABI
+3. Send a deployment transaction containing the bytecode
+4. The network assigns a contract address
+5. The contract becomes part of the blockchain state
+
+## Deployment and Gas
+
+Deploying a contract costs more gas than calling a function.
+
+This is because:
+- Storage space is allocated
+- The contract code is permanently stored on-chain
