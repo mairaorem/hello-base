@@ -26,3 +26,7 @@ Before Solidity 0.8.0, arithmetic operations could overflow.
 
 Example:
 If a uint256 exceeded its maximum value, it would wrap back to zero.
+
+Since Solidity 0.8.0, overflow and underflow automatically revert transactions.
+
+This significantly improved default safety.
