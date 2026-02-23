@@ -76,3 +76,11 @@ Each time `increment()` or `decrement()` is called, the state changes and is per
 Each call to increment() or decrement() modifies storage and therefore consumes gas.
 
 Efficient smart contract design aims to minimize unnecessary storage operations.
+
+## Security Considerations
+
+Even simple contracts should:
+
+- Validate inputs
+- Prevent invalid state transitions
+- Avoid unnecessary external calls
