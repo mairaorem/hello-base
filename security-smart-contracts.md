@@ -30,3 +30,12 @@ If a uint256 exceeded its maximum value, it would wrap back to zero.
 Since Solidity 0.8.0, overflow and underflow automatically revert transactions.
 
 This significantly improved default safety.
+
+## Security in the Counter Contract
+
+The Counter contract uses:
+
+- Solidity 0.8.0 (built-in overflow protection)
+- require() to prevent invalid decrements
+
+These are basic but important safety mechanisms.
