@@ -43,3 +43,12 @@ Deploying a contract costs more gas than calling a function.
 This is because:
 - Storage space is allocated
 - The contract code is permanently stored on-chain
+
+## Deployment on Base
+
+Base is a Layer 2 network built on Ethereum.
+
+Deploying on Base:
+- Costs less gas compared to Ethereum mainnet
+- Still inherits Ethereum security
+- Uses the same EVM-compatible bytecode
