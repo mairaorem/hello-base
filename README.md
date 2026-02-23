@@ -84,5 +84,6 @@ Milestone reached: 50 public commits.
 
 ## Current Focus
 Studying Layer 2 architecture, rollups, and the Base network.
+Studying smart contract deployment, bytecode, ABI, and EVM execution.
 
 
