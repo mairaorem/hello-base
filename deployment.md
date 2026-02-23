@@ -9,3 +9,9 @@ Once deployed, the contract receives a unique blockchain address.
 Before deployment, Solidity code is compiled into bytecode.
 
 Bytecode is the low-level machine code understood by the Ethereum Virtual Machine (EVM).
+
+## Bytecode
+
+Bytecode is a sequence of instructions executed by the EVM.
+
+When deploying a contract, the bytecode is included in a transaction sent to the network.
