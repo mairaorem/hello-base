@@ -19,3 +19,10 @@ A common defense against reentrancy is:
 3. Interact with external contracts
 
 Updating state before external calls reduces risk.
+
+## Integer Overflow (Historical Issue)
+
+Before Solidity 0.8.0, arithmetic operations could overflow.
+
+Example:
+If a uint256 exceeded its maximum value, it would wrap back to zero.
